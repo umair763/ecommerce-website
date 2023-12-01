@@ -23,6 +23,7 @@
 html {
   scroll-behavior: smooth;
   overflow-x: hidden;
+  background-color: #1d272b;
 }
 
 body {
